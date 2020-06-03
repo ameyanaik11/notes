@@ -1,0 +1,6 @@
+- [Pupose](purpose)
+- Getting started
+  - [Docsify](getting-started/docsify)
+  - [Mermaid](getting-started/mermaid)
+- [Bash Tips](bash/readme)
+  - [ITerm with Philips Hue](bash/iterm_hue)

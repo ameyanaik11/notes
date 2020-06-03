@@ -1,9 +1,9 @@
 {
-  "name": "notes-private",
+  "name": "notes",
   "version": "1.0.0",
-  "description": "Notes that I would like to keep private to myself",
+  "description": "Notes that I would like to share publicly",
   "main": "index.js",
-  "repository": "https://github.com/ameyanaik11/notes-private",
+  "repository": "https://github.com/ameyanaik11/notes",
   "author": "Ameya Naik",
   "license": "MIT",
   "private": true,
