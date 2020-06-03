@@ -1,0 +1,16 @@
+{
+  "name": "notes-private",
+  "version": "1.0.0",
+  "description": "Notes that I would like to keep private to myself",
+  "main": "index.js",
+  "repository": "https://github.com/ameyanaik11/notes-private",
+  "author": "Ameya Naik",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "docsify-cli": "4.3.0"
+  },
+  "scripts": {
+    "start": "docsify serve ./docs"
+  }
+}
