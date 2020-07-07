@@ -1,4 +1,4 @@
-# ITerm <> Philips Hue intergration
+# Intergration Philips Hue with ITerm
 
 ## Why {docsify-ignore}
 
