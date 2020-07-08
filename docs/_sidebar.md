@@ -1,4 +1,4 @@
-- [Pupose](purpose)
+- [Purpose](purpose)
 - Getting started
   - [Docsify](getting-started/docsify)
   - [Mermaid](getting-started/mermaid)
