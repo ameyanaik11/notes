@@ -1,4 +1,4 @@
-# Intergration Philips Hue with ITerm
+# Integrating Philips Hue with ITerm
 
 ## Why {docsify-ignore}
 
